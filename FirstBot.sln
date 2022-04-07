@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FirstBot", "FirstBot\FirstBot.pyproj", "{7EF6080A-94AE-4094-B39C-3083EDB8747F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EF6080A-94AE-4094-B39C-3083EDB8747F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EF6080A-94AE-4094-B39C-3083EDB8747F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14E41F3B-34D2-41E8-A43E-096B96D0C980}
+	EndGlobalSection
+EndGlobal
